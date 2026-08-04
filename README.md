@@ -56,6 +56,16 @@ Lessons learned building an open agentic AI system
 
 https://medium.com/@bengebc/owning-your-ai-what-i-learned-building-apache-agentic-2f49f654c77b
 
+**My First Day with OpenCode, Local Models, OpenCode Go, and Lessons Learned**  
+Lessons learned building an AI-native development environment with local LLMs.
+
+https://medium.com/@bengebc/my-first-day-with-opencode-local-models-opencode-go-and-lessons-learned-98c95a6fe99a
+
+**Spec-Driven Development Is Moving From Concept to System**  
+Why specifications are becoming first-class artifacts in AI-native software engineering.
+
+https://medium.com/@bengebc/spec-driven-development-is-moving-from-concept-to-system-88f8f19b9dff
+
 ---
 
 # Architecture and Platform Experiments
@@ -87,23 +97,44 @@ Exploring how event-driven architectures support large-scale operational systems
 
 ### Agentic AI Systems
 
-Experiments with agent-driven development and AI-assisted engineering workflows.
+Experiments with agent-driven development, AI-assisted engineering workflows, and practical AI applications.
+
+**AI-Assisted CAD & Engineering Automation: [Project site](https://brandon-benge.github.io/benge-property-cad/)**
+
+https://github.com/brandon-benge/ai-cad-app  
+Explores AI-assisted CAD generation and engineering workflows.
+
+https://github.com/brandon-benge/benge-property-cad  
+End-to-end Build123D project for generating and managing a real-world property model.
+
+https://github.com/brandon-benge/python-cad-tools  
+Reusable Python tooling supporting parametric CAD generation and automation.
+
+https://github.com/brandon-benge/file-template-cad  
+Template repository for creating reproducible AI-assisted CAD projects.
+
+---
+
+**Core AI Platforms**
+
+https://github.com/brandon-benge/langchain_autocommit  
+Automating engineering workflows using LangChain and AI-assisted development.
+
+https://github.com/brandon-benge/RAG-Workflow  
+Reference implementation exploring retrieval-augmented generation (RAG) patterns.
 
 https://github.com/brandon-benge/apache-agentic  
-https://github.com/brandon-benge/RAG-Workflow  
-https://github.com/brandon-benge/langchain_autocommit  
+Open-source reference implementation for building agentic AI systems.
 
 ---
 
-### Observability + AI
+**AI Engineering Workflows**
 
-**Prometheus Metric Summarizer**
-
-https://github.com/brandon-benge/prometheus-metric-summarizer
-
-Exploring how AI systems can help engineers interpret large volumes of operational metrics.
+https://github.com/brandon-benge/opencode-config  
+Reusable OpenCode agents, prompts, and Spec-Driven Development workflows for AI-assisted software engineering.
 
 ---
+
 
 # Current Areas of Focus
 
