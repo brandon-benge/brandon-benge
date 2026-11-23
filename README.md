@@ -44,7 +44,7 @@ More recently, I’ve been exploring how **AI-native development workflows** can
 
 ## Certifications
 
-[AWS Certified Cloud Practitioner](YOUR_PUBLIC_CREDLY_BADGE_LINK)
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/e9a94b37-bc7a-4db5-819c-e960d3248369/public_url)
 
 ---
 
