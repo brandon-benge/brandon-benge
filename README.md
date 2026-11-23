@@ -42,6 +42,12 @@ More recently, I’ve been exploring how **AI-native development workflows** can
 
 ---
 
+## Certifications
+
+[AWS Certified Cloud Practitioner](YOUR_PUBLIC_CREDLY_BADGE_LINK)
+
+---
+
 # Writing
 
 I enjoy writing about how modern platforms evolve to support AI systems and real-time decision making.
